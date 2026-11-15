@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	worktree = E:/projects/Test
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/gandhi1908/My-test-porttfolio.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = Codex
+	email = codex@users.noreply.github.com
